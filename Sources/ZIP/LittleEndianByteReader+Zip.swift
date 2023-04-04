@@ -25,7 +25,7 @@ extension LittleEndianByteReader {
 
 }
 
-fileprivate extension String {
+extension String {
 
     // "Latin-US (DOS)" CP437-2147483120
     // Note that this encoding is interpreted differently "depending on the context". This concerns codes in 0-31 range
